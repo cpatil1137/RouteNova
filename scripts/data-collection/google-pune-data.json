@@ -1,0 +1,476 @@
+[
+  {
+    "id": "google_coworking_ChIJLxTUds2_wjsRniSSvb-LT9E",
+    "name": "MILO- CO WORK CAFE AND GAMING | F. C. Road",
+    "type": "coworking",
+    "lat": 18.520197,
+    "long": 73.840243,
+    "tags": [
+      "coworking",
+      "highly-rated",
+      "wifi",
+      "workspace",
+      "productivity"
+    ],
+    "description": "MILO- CO WORK CAFE AND GAMING | F. C. Road in Pune",
+    "rating": 4.9
+  },
+  {
+    "id": "google_coworking_ChIJafnihoC_wjsRksPL-c34i_E",
+    "name": "Milo Co-Work Cafe and Gaming | Bhandarkar Road",
+    "type": "coworking",
+    "lat": 18.5178168,
+    "long": 73.8409027,
+    "tags": [
+      "coworking",
+      "highly-rated",
+      "wifi",
+      "workspace",
+      "productivity"
+    ],
+    "description": "Milo Co-Work Cafe and Gaming | Bhandarkar Road in Pune",
+    "rating": 4.8
+  },
+  {
+    "id": "google_coworking_ChIJ-ZNGr_LBwjsRXY1_uvEphlk",
+    "name": "Workin Coworking Space, Tilak Road",
+    "type": "coworking",
+    "lat": 18.5086987,
+    "long": 73.84943670000001,
+    "tags": [
+      "coworking",
+      "highly-rated",
+      "wifi",
+      "workspace",
+      "productivity"
+    ],
+    "description": "Workin Coworking Space, Tilak Road in Pune",
+    "rating": 5
+  },
+  {
+    "id": "google_coworking_ChIJNavDUwDBwjsRf44_j3lU_uc",
+    "name": "Coworking space in Pune",
+    "type": "coworking",
+    "lat": 18.5159949,
+    "long": 73.8769382,
+    "tags": [
+      "coworking",
+      "highly-rated",
+      "wifi",
+      "workspace",
+      "productivity"
+    ],
+    "description": "Coworking space in Pune in Pune",
+    "rating": 4.9
+  },
+  {
+    "id": "google_coworking_ChIJVVVVFXDAwjsRYPLRgIz0LbM",
+    "name": "CO workspace (को workspace)",
+    "type": "coworking",
+    "lat": 18.516299399999998,
+    "long": 73.8516033,
+    "tags": [
+      "coworking",
+      "highly-rated",
+      "wifi",
+      "workspace",
+      "productivity"
+    ],
+    "description": "CO workspace (को workspace) in Pune",
+    "rating": 4.7
+  },
+  {
+    "id": "google_coworking_ChIJaZmFYALBwjsRa1XZZ81oOjo",
+    "name": "Inscape Cowork Pvt Ltd",
+    "type": "coworking",
+    "lat": 18.5412531,
+    "long": 73.8907687,
+    "tags": [
+      "coworking",
+      "highly-rated",
+      "wifi",
+      "workspace",
+      "productivity"
+    ],
+    "description": "Work, meeting & outdoor event facilities with ergonomic furniture.",
+    "rating": 4.7
+  },
+  {
+    "id": "google_coworking_ChIJQ3d80dG-wjsRBaEYQhHGMKA",
+    "name": "Divine Coworking Space - Affordable Office Space Baner Pune",
+    "type": "coworking",
+    "lat": 18.5612687,
+    "long": 73.783624,
+    "tags": [
+      "coworking",
+      "highly-rated",
+      "wifi",
+      "workspace",
+      "productivity"
+    ],
+    "description": "Divine Coworking Space - Affordable Office Space Baner Pune in Pune",
+    "rating": 4.7
+  },
+  {
+    "id": "google_coworking_ChIJCSuHMfzAwjsRyIoJ4bilaIo",
+    "name": "Starthub Cowork space",
+    "type": "coworking",
+    "lat": 18.538999999999998,
+    "long": 73.885632,
+    "tags": [
+      "coworking",
+      "highly-rated",
+      "wifi",
+      "workspace",
+      "productivity"
+    ],
+    "description": "Starthub Cowork space in Pune",
+    "rating": 4.8
+  },
+  {
+    "id": "google_coworking_ChIJK4E9CCfBwjsR9jsoEL-Fhak",
+    "name": "Reality Workspaces | Coworking Space in Shivaji Nagar Pune | Shared Office Space in Shivaji Nagar Pune",
+    "type": "coworking",
+    "lat": 18.5330436,
+    "long": 73.8473509,
+    "tags": [
+      "coworking",
+      "wifi",
+      "workspace",
+      "productivity"
+    ],
+    "description": "Reality Workspaces | Coworking Space in Shivaji Nagar Pune | Shared Office Space in Shivaji Nagar Pune in Pune"
+  },
+  {
+    "id": "google_coworking_ChIJzQkthAfBwjsRtFw36hG58yc",
+    "name": "The Hive - Flexible Workspaces, The Mills",
+    "type": "coworking",
+    "lat": 18.5326044,
+    "long": 73.87108020000001,
+    "tags": [
+      "coworking",
+      "highly-rated",
+      "wifi",
+      "workspace",
+      "productivity"
+    ],
+    "description": "The Hive - Flexible Workspaces, The Mills in Pune",
+    "rating": 4.5
+  },
+  {
+    "id": "google_cafe_ChIJKYWoizq_wjsRPbowDxgloOo",
+    "name": "Bookavibe - Book Cafe and Co-working space",
+    "type": "cafe",
+    "lat": 18.5211504,
+    "long": 73.8416961,
+    "tags": [
+      "cafe",
+      "highly-rated",
+      "wifi",
+      "food"
+    ],
+    "description": "Bookavibe - Book Cafe and Co-working space in Pune",
+    "rating": 4.7
+  },
+  {
+    "id": "google_cafe_ChIJS0oqKpbBwjsRJmUbiKgeDD8",
+    "name": "CAFE MHUZO GOA",
+    "type": "cafe",
+    "lat": 18.5181109,
+    "long": 73.84223159999999,
+    "tags": [
+      "cafe",
+      "highly-rated",
+      "wifi",
+      "food"
+    ],
+    "description": "CAFE MHUZO GOA in Pune",
+    "rating": 4.8
+  },
+  {
+    "id": "google_cafe_ChIJTWY0G2TBwjsR9M0AcA-mZ0A",
+    "name": "CAFE FLYING GYPSY'S",
+    "type": "cafe",
+    "lat": 18.5239789,
+    "long": 73.8424699,
+    "tags": [
+      "cafe",
+      "highly-rated",
+      "wifi",
+      "food"
+    ],
+    "description": "CAFE FLYING GYPSY'S in Pune",
+    "rating": 4.6
+  },
+  {
+    "id": "google_cafe_ChIJnzmHX4C_wjsRjKX5Jtpwj9g",
+    "name": "CAFE SKY",
+    "type": "cafe",
+    "lat": 18.5253714,
+    "long": 73.84029989999999,
+    "tags": [
+      "cafe",
+      "moderate-price",
+      "highly-rated",
+      "wifi",
+      "food"
+    ],
+    "description": "CAFE SKY in Pune",
+    "rating": 4.3,
+    "priceLevel": "PRICE_LEVEL_MODERATE"
+  },
+  {
+    "id": "google_cafe_ChIJC1mnrZq_wjsRR4y_UhaB1Ls",
+    "name": "Mauji - The Time Cafe",
+    "type": "cafe",
+    "lat": 18.543817,
+    "long": 73.8329553,
+    "tags": [
+      "cafe",
+      "moderate-price",
+      "highly-rated",
+      "wifi",
+      "food"
+    ],
+    "description": "Mauji - The Time Cafe in Pune",
+    "rating": 4.7,
+    "priceLevel": "PRICE_LEVEL_MODERATE"
+  },
+  {
+    "id": "google_cafe_ChIJUfhbdXi_wjsRWJ8m-NqAY74",
+    "name": "WORDS AND SIPS BOOK CAFE",
+    "type": "cafe",
+    "lat": 18.521192799999998,
+    "long": 73.8417189,
+    "tags": [
+      "cafe",
+      "moderate-price",
+      "highly-rated",
+      "wifi",
+      "food"
+    ],
+    "description": "Laid-back hangout with a library plating sandwiches & burgers, plus coffee & shakes.",
+    "rating": 4.3,
+    "priceLevel": "PRICE_LEVEL_MODERATE"
+  },
+  {
+    "id": "google_cafe_ChIJOdNDwAjBwjsRNi9lZfuGAIo",
+    "name": "Coffee please",
+    "type": "cafe",
+    "lat": 18.520215999999998,
+    "long": 73.85623029999999,
+    "tags": [
+      "cafe",
+      "highly-rated",
+      "wifi",
+      "food"
+    ],
+    "description": "Coffee please in Pune",
+    "rating": 4.2
+  },
+  {
+    "id": "google_cafe_ChIJ5_oRg0G_wjsR66PD16_6Qvk",
+    "name": "Lane, The Hangout Cafe",
+    "type": "cafe",
+    "lat": 18.5223443,
+    "long": 73.84179979999999,
+    "tags": [
+      "cafe",
+      "highly-rated",
+      "wifi",
+      "food"
+    ],
+    "description": "Lane, The Hangout Cafe in Pune",
+    "rating": 4.3
+  },
+  {
+    "id": "google_cafe_ChIJSxqZrdm_wjsREKV-K8teyrg",
+    "name": "Cafe Bhratah",
+    "type": "cafe",
+    "lat": 18.507448,
+    "long": 73.8295107,
+    "tags": [
+      "cafe",
+      "highly-rated",
+      "wifi",
+      "food"
+    ],
+    "description": "Cafe Bhratah in Pune",
+    "rating": 4.6
+  },
+  {
+    "id": "google_cafe_ChIJH-R0_2HBwjsRShN19HRC3BQ",
+    "name": "Captain coffee",
+    "type": "cafe",
+    "lat": 18.520743799999998,
+    "long": 73.85569579999999,
+    "tags": [
+      "cafe",
+      "highly-rated",
+      "wifi",
+      "food"
+    ],
+    "description": "Captain coffee in Pune",
+    "rating": 4.4
+  },
+  {
+    "id": "google_park_ChIJEWgxBWq5wjsRR8AXSKfXo0Y",
+    "name": "Rajmata Jijau Garden",
+    "type": "park",
+    "lat": 18.5916686,
+    "long": 73.81748739999999,
+    "tags": [
+      "park",
+      "highly-rated",
+      "nature",
+      "free",
+      "outdoor"
+    ],
+    "description": "Rajmata Jijau Garden in Pune",
+    "rating": 4.4
+  },
+  {
+    "id": "google_park_ChIJJ-cTQQDBwjsRH4rwUIDtfds",
+    "name": "Osho Teerth Park",
+    "type": "park",
+    "lat": 18.5358733,
+    "long": 73.8906921,
+    "tags": [
+      "park",
+      "highly-rated",
+      "nature",
+      "free",
+      "outdoor"
+    ],
+    "description": "Calm, natural setting for quiet walks & jogs amid dense foliage, gardens & a stream.",
+    "rating": 4.1
+  },
+  {
+    "id": "google_park_ChIJAQAAkPm_wjsRNNKab-PjkTI",
+    "name": "P L Deshpande Garden",
+    "type": "park",
+    "lat": 18.4923958,
+    "long": 73.83614779999999,
+    "tags": [
+      "park",
+      "highly-rated",
+      "nature",
+      "free",
+      "outdoor"
+    ],
+    "description": "Japanese garden set on 10 acres with paths & wooden pergolas, plus fish ponds & a kids' play area.",
+    "rating": 4.5
+  },
+  {
+    "id": "google_park_ChIJT5p_f27BwjsRiuRDSLDNRdA",
+    "name": "Chhatrapati Shivaji Maharaj Garden",
+    "type": "park",
+    "lat": 18.549414499999997,
+    "long": 73.91838969999999,
+    "tags": [
+      "park",
+      "highly-rated",
+      "nature",
+      "free",
+      "outdoor"
+    ],
+    "description": "Chhatrapati Shivaji Maharaj Garden in Pune",
+    "rating": 4.5
+  },
+  {
+    "id": "google_park_ChIJKbW9bwbBwjsRSr6jX6jNksU",
+    "name": "Wagaskar PMC Garden",
+    "type": "park",
+    "lat": 18.5384134,
+    "long": 73.8986074,
+    "tags": [
+      "park",
+      "highly-rated",
+      "nature",
+      "free",
+      "outdoor"
+    ],
+    "description": "Wagaskar PMC Garden in Pune",
+    "rating": 4.3
+  },
+  {
+    "id": "google_park_ChIJG7hvEI3BwjsRhtwrU1UW1Q0",
+    "name": "Aditi Garden",
+    "type": "park",
+    "lat": 18.5150057,
+    "long": 73.92642690000001,
+    "tags": [
+      "park",
+      "highly-rated",
+      "nature",
+      "free",
+      "outdoor"
+    ],
+    "description": "This 25-acre circular park in a gated community features walking paths through landscaped areas.",
+    "rating": 4.5
+  },
+  {
+    "id": "google_park_ChIJV7RabyLBwjsRqvpesetuOIc",
+    "name": "Chhatrapati Sambhaji Maharaj garden",
+    "type": "park",
+    "lat": 18.5204246,
+    "long": 73.84645019999999,
+    "tags": [
+      "park",
+      "highly-rated",
+      "nature",
+      "free",
+      "outdoor"
+    ],
+    "description": "Tree-shaded city park with a small aquarium, central fountain, playground & a jogging track.",
+    "rating": 4.3
+  },
+  {
+    "id": "google_park_ChIJSW3W7R65wjsRSjevaOYu2CI",
+    "name": "Pimple Saudagar Linear Garden",
+    "type": "park",
+    "lat": 18.596994799999997,
+    "long": 73.7931306,
+    "tags": [
+      "park",
+      "highly-rated",
+      "nature",
+      "free",
+      "outdoor"
+    ],
+    "description": "Pimple Saudagar Linear Garden in Pune",
+    "rating": 4.5
+  },
+  {
+    "id": "google_park_ChIJQefo-QTAwjsR2NdHUYcrabM",
+    "name": "Bagul Udyan",
+    "type": "park",
+    "lat": 18.4910317,
+    "long": 73.85089599999999,
+    "tags": [
+      "park",
+      "highly-rated",
+      "nature",
+      "free",
+      "outdoor"
+    ],
+    "description": "Outdoor venue featuring displays with jungle animal statues, plus a nighttime laser fountain show.",
+    "rating": 4.2
+  },
+  {
+    "id": "google_park_ChIJ68WI9H6_wjsRtKoOEmMm9Ws",
+    "name": "Chittaranjan Vatika",
+    "type": "park",
+    "lat": 18.5322985,
+    "long": 73.83787079999999,
+    "tags": [
+      "park",
+      "highly-rated",
+      "nature",
+      "free",
+      "outdoor"
+    ],
+    "description": "Chittaranjan Vatika in Pune",
+    "rating": 4.5
+  }
+]
